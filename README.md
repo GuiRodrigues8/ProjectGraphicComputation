@@ -1,2 +1,2 @@
-# ProjectGraphicComputation
-Pratical Project done in C++ for the course of graphical computation
+# Graphical Computation Project
+Pratical Project done in C++ using openGL for the course of graphical computation
